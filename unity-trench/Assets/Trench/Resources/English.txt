@@ -1,0 +1,17 @@
+Confirm#确认
+Cancel#取消
+OK#好的
+Buy#购买
+GoToLowBetRoom#去低倍场
+backLobbyTip#您确定要返回大厅吗？
+quitTip#您确定要退出游戏吗？
+lowCoinTip#银币不够了，先去购买点银币吧！
+lowCoinGiftTitle#救济金
+lowCoinGiftTip#您的银币不够了，系统第{0}次（每日两次）给您免费赠送2000银币，继续加油吧！
+lowCoinRoomTip#您的银币不够{0}，无法进入。要去买点吗？
+lowCoinEndTip#您的银币数量低于此房间的下限了，要去买点吗？
+lowDiamondTip#钻石不够了，先去购买点钻石吧！
+highCoinRoomTip#土豪，您的水平这么高了，快去高倍场虐人吧!
+purchaseSuccessTip#支付成功!
+purchaseFailTip#支付失败
+purchaseCancelTip#支付取消

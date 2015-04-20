@@ -1,0 +1,37 @@
+Confirm#确认
+Cancel#取消
+OK#好的
+Buy#购买
+Back#返回
+GoToLowBetRoom#去低倍场
+backLobbyTip#您确定要返回大厅吗？
+quitTip#您确定要退出游戏吗？
+lowCoinTitle#银币不足
+lowCoinTip#银币不够了，先去购买点银币吧！
+lowCoinGiftTitle#救济金
+lowCoinGiftTip#您的银币不够了，系统第{0}次（每日两次）给您免费赠送2000银币，继续加油吧！
+lowCoinRoomTip#您的银币不够<b>{0}</b>，无法进入。要去买点吗？
+lowCoinEndTip#您的银币数量低于此房间的下限了，要去买点吗？
+lowDiamondTip#钻石不够了，先去购买点钻石吧！
+lowItemTip#道具不够了，先去购买点道具吧！
+highCoinRoomTip#土豪，您的水平这么高了，快去高倍场虐人吧!
+purchaseSuccessTip#支付成功!
+purchaseFailTip#支付失败!
+purchaseCancelTip#支付取消!
+completeStageMissionTip#任务完成：
+failStageMissionTip#任务失败：
+TimeStageMissionTip#任务时限：
+StageMissionTip#本关任务
+StageProgressTitle#读取进度--关卡{0}
+StageProgressInfo#通关目标：{0}\n作弊效果：{1}
+StageReplayBut#重玩本关
+StageContinueBut#继续
+StageComplete#通关
+StageResultSuccess#闯关成功
+StageResultFailure#闯关失败
+StageReplay#再玩一次
+StageNext#下一关
+StageCondComplete#达成
+StageCondFailure#未达成
+StageUnlockTip#该关卡尚未解锁，需要总星数达到 {0} 方可开启
+StageNotCanPlayTip#该关卡尚未开启，需要通关第 {0} 关卡后方可开启
